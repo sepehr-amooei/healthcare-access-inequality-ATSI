@@ -82,9 +82,6 @@ healthcare-access-inequality/
 ├── data/
 │   ├── Assesment_2_Resons.xlsx        # Cleaned barrier data (Tables 8.3)
 │   └── Assesment1_sheets.xlsx         # Cleaned healthcare destination data (Table 9.3)
-│
-└── report/
-    └── IFN585_Assessment_1.pdf        # Full analytical report (optional)
 ```
 
 ---
